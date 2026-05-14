@@ -1,0 +1,3 @@
+data structure:
+td_dens_re+im_rt-tdexx_delta_s0_h2_sto-3g_PYSCF.npz    (20000,2,2) 20000 density matrices 2x2 real and  2x2 imag.
+td_Fock_at_re+im_rt-tdexx_delta_s0_h2_sto-3g_PYSCF.npz (20000,2,2) 20000 Fock matrices 2x2 real and  2x2 imag.
